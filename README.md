@@ -1,12 +1,12 @@
 # Miscellaneous Jupyter Notebooks
 
-Maintainer: Sandro Klippel <sandroklippel@gmail.com>
+Maintainer: Sandro Klippel (<sandroklippel@gmail.com>)
 
 <img src = 'https://jupyter.org/assets/homepage/main-logo.svg' width  =300px>
 
 **Bem vindo**
 
-Este é um repositório público de notebooks Jupyter mas com ênfase em geoprocessamento e análise de dados espaciais.
+Este é um repositório público de notebooks Jupyter com ênfase em geoprocessamento e análise de dados espaciais.
 
 ## Contéudo
 
