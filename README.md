@@ -2,7 +2,7 @@
 
 Maintainer: Sandro Klippel (<sandroklippel@gmail.com>)
 
-<img src = 'https://jupyter.org/assets/homepage/main-logo.svg' width  =300px>
+<img src = 'https://jupyter.org/assets/homepage/main-logo.svg' width  =100px>
 
 **Bem vindo**
 
